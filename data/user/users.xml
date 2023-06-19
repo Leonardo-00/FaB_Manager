@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+    <user username="TestUser1">
+        <userID>TestUser1</userID>
+        <password>1234</password>
+        <contacts>
+            <contact type="mail">mauromauro@SMOrc.kek</contact>
+            <contact type="phone number">3384001732</contact>
+        </contacts>
+    </user>
+    <user username="TestUser2">
+        <userID>TestUser2</userID>
+        <password>1234</password>
+        <contacts>
+            <contact type="mail">kerek@SMOrc.kek</contact>
+            <contact type="phone number">22</contact>
+        </contacts>
+    </user>
+</users>

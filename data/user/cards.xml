@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cardsList>
+
+	//WTR
+	<card cardType="Hero" id="1">
+		<name>Rhinar, Reckless Rampage</name>
+		<class>Brute</class>
+		<talent/>
+		<type>Brute Hero</type>
+		<effect>When you discard a card with 6(a) or more  during your action phase, intimidate. 
+                (Target hero banishes face down a random card from their hand. At the begining of 
+                the end phase, return all cards banished this way to their owners hand.)
+        </effect>
+		<intellect>4</intellect>
+		<health>40</health>
+		<legalTypes>
+			<lt>Generic</lt>
+			<lt>Brute</lt>
+		</legalTypes>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>001</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="1">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>001</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="2">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Hero" id="2">
+		<name>Rhinar</name>
+		<class>Brute</class>
+		<talent/>
+		<type>Brute Hero - Young</type>
+		<effect>When you discard a card with 6(a) or more  during your action phase, intimidate. 
+                (Target hero banishes face down a random card from their hand. At the begining of 
+                the end phase, return all cards banished this way to their owners hand.)
+        </effect>
+		<intellect>4</intellect>
+		<health>20</health>
+		<legalTypes>
+			<lt>Generic</lt>
+			<lt>Brute</lt>
+		</legalTypes>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>001</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="3">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>001</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="4">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Weapon" id="3">
+		<name>Romping Club</name>
+		<type>Brute Weapon - Club (2H)</type>
+		<effect>Once per turn Action - (r)(r): Attack
+
+            Once per Turn Effect - When you discard a card with 6 attack or more , 
+            Romping Club gains +1(a) until end of turn
+    </effect>
+		<attack>4</attack>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>003</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="5">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>003</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="6">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Equipment" id="4">
+		<name>Scabskin Leathers</name>
+		<type>Brute Equipment - Legs</type>
+		<effect>Once per Turn Action - 0: Roll a 6 sided die. Gain action points equal to 
+                half the number roll, rounded down.
+
+                Battleworn (If you defend with Scabskin Leathers, put a -1(d) counter on it 
+                when the combat chain closes.)
+        </effect>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>004</id>
+				<rarity>L</rarity>
+				<concreteCards>
+					<concrCard id="7">
+						<foilType>Cold</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>004</id>
+				<rarity>L</rarity>
+				<concreteCards>
+					<concrCard id="8">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Equipment" id="5">
+		<name>Barkbone Strapping</name>
+		<type>Brute Equipment - Chest</type>
+		<effect>Instant - Destroy Barkbone Strapping: Roll a 6 sided die. Gain (r) equal to half the 
+                number rolled, rounded down.
+
+                Battleworn (If you defend with Backbone Strapping, put a -1(d) counter on it when
+                the combat chain closes.)
+        </effect>
+		<defence>1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>005</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="9">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="10">
+						<foilType>Cold</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>005</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="11">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="12">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="6">
+		<name>Alpha Rampage</name>
+		<type>Brute Action - Attack</type>
+		<effect>Rhinar Specialization (You may only have Alpha Rampage in your deck if your hero is
+                Rhinar.)
+
+                As an additional cost to play Alpha Rampage, discard a random card.
+            
+                Intimidate
+        </effect>
+		<cost>3</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>9</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>006</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="13">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="14">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>006</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="15">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="16">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="7">
+		<name>Bloodrush Bellow</name>
+		<type>Brute Action</type>
+		<effect>As an additional cost to play Bloodrush Bellow, discard a random card.
+
+				Your Brute attacks gain +2(a) this turn.
+			
+				If the discarded card has 6 or more (a), draw 2 cards and Bloodrush Bellow gains go
+				again
+        </effect>
+		<cost>1</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>007</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="17">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="18">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>007</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="19">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="20">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="8">
+		<name>Reckless Swing</name>
+		<type>Brute Defence Reaction</type>
+		<effect>As an additional cost to play Reckless Swing, discard a random card.
+
+				If the discarded card has 6 or more (a), deal 2 damage to the attacking hero.
+        </effect>
+		<cost>0</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>4</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>008</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="21">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="22">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>008</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="23">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="24">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="9">
+		<name>Sand Sketched Plan</name>
+		<type>Brute Action</type>
+		<effect>Rhinar Specialization (You may only have Sand Sketched Plan in your deck if your
+				hero is Rhinar.)
+
+				Search your deck for a card, put it into your hand, discard a random card, then shuffle
+				your deck.
+			
+				If the discarded card has 6 or more (a), gain 2 action points.
+        </effect>
+		<cost>0</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>009</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="25">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="26">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>009</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="27">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="28">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="10">
+		<name>Bone Head Barrier</name>
+		<type>Brute Instant</type>
+		<effect>Roll a 6 sided die. Prevent the next X damage that would be dealt to your hero this
+				turn, where X is the number rolled.
+        </effect>
+		<cost>1</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>-1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>010</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="29">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="30">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>010</id>
+				<rarity>S</rarity>
+				<concreteCards>
+					<concrCard id="31">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="32">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="11">
+		<name>Breakneck Battery</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Breakneck Battery, discard a random card.
+
+				If the discarded card has 6 or more (a), Breakneck Battery gains go again.
+        </effect>
+		<cost>2</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>6</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>011</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="33">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="34">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>011</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="35">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="36">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="12">
+		<name>Breakneck Battery</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Breakneck Battery, discard a random card.
+
+				If the discarded card has 6 or more (a), Breakneck Battery gains go again.
+        </effect>
+		<cost>2</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>5</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>012</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="37">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="38">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>012</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="39">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="40">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="13">
+		<name>Breakneck Battery</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Breakneck Battery, discard a random card.
+
+				If the discarded card has 6 or more (a), Breakneck Battery gains go again.
+        </effect>
+		<cost>2</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>4</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>013</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="41">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="42">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>013</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="43">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="44">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="14">
+		<name>Savage Feast</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Savage Feast, discard a random card.
+
+				If the discarded card has 6 or more (a), draw a card.
+        </effect>
+		<cost>1</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>6</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>014</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="45">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="46">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>014</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="47">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="48">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="15">
+		<name>Savage Feast</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Savage Feast, discard a random card.
+
+				If the discarded card has 6 or more (a), draw a card.
+        </effect>
+		<cost>1</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>5</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>015</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="49">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="50">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>015</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="51">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="52">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="16">
+		<name>Savage Feast</name>
+		<type>Brute Action - Attack</type>
+		<effect>As an additional cost to play Savage Feast, discard a random card.
+
+				If the discarded card has 6 or more (a), draw a card.
+        </effect>
+		<cost>1</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>4</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>016</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="53">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="54">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>016</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="55">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="56">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="191">
+		<name>Scar for a Scar</name>
+		<type>Generic Attack - Action</type>
+		<effect>When you play Scar for a Scar, if you have less (h) than your opponent, it gains go
+				again.
+        </effect>
+		<cost>0</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>4</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>191</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="57">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="58">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>191</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="59">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="60">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>FAB</expansion>
+				<id>015</id>
+				<rarity>P</rarity>
+				<concreteCards>
+					<concrCard id="61">
+						<foilType>Rainbow</foilType>
+						<variantArt>Variant</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="192">
+		<name>Scar for a Scar</name>
+		<type>Generic Attack - Action</type>
+		<effect>When you play Scar for a Scar, if you have less (h) than your opponent, it gains go
+				again.
+        </effect>
+		<cost>0</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>3</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>192</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="62">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="63">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>192</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="64">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="65">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="193">
+		<name>Scar for a Scar</name>
+		<type>Generic Attack - Action</type>
+		<effect>When you play Scar for a Scar, if you have less (h) than your opponent, it gains go
+				again.
+        </effect>
+		<cost>0</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>2</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>193</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="66">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="67">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>193</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="68">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="69">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="206">
+		<name>Pummel</name>
+		<type>Generic Attack Reaction</type>
+		<effect>Choose 1;
+
+                Target club or hammer attack gains +4(a).
+                Target attack action card with cost (r)(r) or greater gains +4(a) and "If this hits,
+                the defending hero discards a card."
+        </effect>
+		<cost>2</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>206</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="70">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="71">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>206</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="72">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="73">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="207">
+		<name>Pummel</name>
+		<type>Generic Attack Reaction</type>
+		<effect>Choose 1;
+
+                Target club or hammer attack gains +4(a).
+                Target attack action card with cost (r)(r) or greater gains +4(a) and "If this hits,
+                the defending hero discards a card."
+        </effect>
+		<cost>2</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>207</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="74">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="75">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>207</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="76">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="77">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="208">
+		<name>Pummel</name>
+		<type>Generic Attack Reaction</type>
+		<effect>Choose 1;
+
+                Target club or hammer attack gains +4(a).
+                Target attack action card with cost (r)(r) or greater gains +4(a) and "If this hits,
+                the defending hero discards a card."
+        </effect>
+		<cost>2</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>2</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR-A</expansion>
+				<id>208</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="78">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="79">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>208</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="80">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="81">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="226">
+		<name>Quicken</name>
+		<type>Generic Token - Aura</type>
+		<effect>(Auras stay in the arena until they are destroyed.)
+
+				When you play an attack action card or attack with a weapon, destroy Quicken then
+				the attack gains go again.
+        </effect>
+		<cost>-1</cost>
+		<color>U</color>
+		<pitchable>false</pitchable>
+		<attack>-1</attack>
+		<defence>-1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>WTR</expansion>
+				<id>225</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="82">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>WTR-U</expansion>
+				<id>225</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="83">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	
+	//ARC
+	<card cardType="Deck" id="227">
+		<name>Eye of Ophidia</name>
+		<type>Generic Resource - Gem</type>
+		<effect>Legendary (You may only have 1 Eye of Ophidia in your deck.)
+
+				When you pitch Eye of Ophidia, opt 2.
+        </effect>
+		<cost>-1</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>-1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>ARC</expansion>
+				<id>000</id>
+				<rarity>F</rarity>
+				<concreteCards>
+					<concrCard id="84">
+						<foilType>Cold</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>ARC-U</expansion>
+				<id>000</id>
+				<rarity>F</rarity>
+				<concreteCards>
+					<concrCard id="85">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="444">
+		<name>Whisper of the Oracle</name>
+		<type>Generic Action</type>
+		<effect>Opt 2 (Look at the top 2 cards of your deck. You may put them on the top and/or
+				bottom in any order.)
+
+				Go again
+        </effect>
+		<cost>0</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>ARC</expansion>
+				<id>217</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="86">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="87">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>ARC-U</expansion>
+				<id>217</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="88">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="89">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	
+	//CRU
+	<card cardType="Weapon" id="449">
+		<name>Mandible Claw</name>
+		<type>Brute Weapon - Claw (1H)</type>
+		<effect>Once per Turn Action - (r)(r): Attack
+
+                If you have discarded a card with 6 or more attack this turn, Mandible Claw gains go
+                again.
+        </effect>
+		<attack>3</attack>
+		<expansionCards>
+			<expCard>
+				<expansion>CRU</expansion>
+				<id>004</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="90">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>CRU-U</expansion>
+				<id>004</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="91">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="617">
+		<name>Copper</name>
+		<type>Generic Token - Item</type>
+		<effect>Action - (r)(r)(r)(r), destroy Copper: Draw a card. Go again
+        </effect>
+		<cost>-1</cost>
+		<color>U</color>
+		<pitchable>false</pitchable>
+		<attack>-1</attack>
+		<defence>-1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>CRU</expansion>
+				<id>197</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="92">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>CRU-U</expansion>
+				<id>197</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="93">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	
+	//MON
+	<card cardType="Hero" id="737">
+		<name>Levia, Shadowborn Abomination</name>
+		<class>Brute</class>
+		<talent>Shadow</talent>
+		<type>Shadow Brute Hero</type>
+		<effect>If a card with 6 or more attack has been put into your banished zone this turn,
+                cards you own lose blood debt during the end phase.
+        </effect>
+		<intellect>4</intellect>
+		<health>40</health>
+		<legalTypes>
+			<lt>Generic</lt>
+			<lt>Brute</lt>
+			<lt>Shadow</lt>
+			<lt>Shadow Brute</lt>
+		</legalTypes>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>119</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="94">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>119</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="95">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Hero" id="738">
+		<name>Levia</name>
+		<class>Brute</class>
+		<talent>Shadow</talent>
+		<type>Shadow Brute Hero - Young</type>
+		<effect>If a card with 6 or more attack has been put into your banished zone this turn,
+                cards you own lose blood debt during the end phase.
+        </effect>
+		<intellect>4</intellect>
+		<health>20</health>
+		<legalTypes>
+			<lt>Generic</lt>
+			<lt>Brute</lt>
+			<lt>Shadow</lt>
+			<lt>Shadow Brute</lt>
+		</legalTypes>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>120</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="96">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>120</id>
+				<rarity>T</rarity>
+				<concreteCards>
+					<concrCard id="97">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Weapon" id="739">
+		<name>Hexagore, the Death Hydra</name>
+		<type>Shadow Brute Weapon - Flail (2H)</type>
+		<effect>Once per Turn Action - (r)(r): Attack
+
+                Whenever you attack with Hexagore, it deals damage to you equal to 6 minus
+                the number of cards with blood debt in your banished zone.
+        </effect>
+		<attack>6</attack>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>121</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="98">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>121</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="99">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Equipment" id="740">
+		<name>Hooves of the Shadowbeast</name>
+		<type>Shadow Brute Equipment - Legs</type>
+		<effect>OWhenever a card with 6 or more (a) is put into your banished zone, you may destroy
+                Hooves of the Shadowbeast. If you do, gain 1 action point. (When an equipment is
+                destroyed, it's put into the graveyard.)
+
+                Battleworn (If you defend with Scabskin Leathers, put a -1(d) counter on it 
+                when the combat chain closes.)
+        </effect>
+		<defence>1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>122</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="100">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>122</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="101">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="744">
+		<name>Endless Maw</name>
+		<type>Shadow Brute Action - Attack</type>
+		<effect>As an additional cost to play Endless Maw, banish 3 random cards from your
+                graveyard.
+
+                If a card with 6 or more (a) is banished this way, Endless Maw gains +3(a).
+            
+                Blood Debt (At the beginning of your end phase, if Endless Maw is in your banished
+                zone, lose 1(h).)
+        </effect>
+		<cost>3</cost>
+		<color>R</color>
+		<pitchable>true</pitchable>
+		<attack>6</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>126</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="102">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="103">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>126</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="104">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="105">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="745">
+		<name>Endless Maw</name>
+		<type>Shadow Brute Action - Attack</type>
+		<effect>As an additional cost to play Endless Maw, banish 3 random cards from your
+                graveyard.
+
+                If a card with 6 or more (a) is banished this way, Endless Maw gains +3(a).
+            
+                Blood Debt (At the beginning of your end phase, if Endless Maw is in your banished
+                zone, lose 1(h).)
+        </effect>
+		<cost>3</cost>
+		<color>Y</color>
+		<pitchable>true</pitchable>
+		<attack>5</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>127</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="106">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="107">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>127</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="108">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="109">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="746">
+		<name>Endless Maw</name>
+		<type>Shadow Brute Action - Attack</type>
+		<effect>As an additional cost to play Endless Maw, banish 3 random cards from your
+                graveyard.
+
+                If a card with 6 or more (a) is banished this way, Endless Maw gains +3(a).
+            
+                Blood Debt (At the beginning of your end phase, if Endless Maw is in your banished
+                zone, lose 1(h).)
+        </effect>
+		<cost>3</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>4</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>128</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="110">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="111">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>128</id>
+				<rarity>R</rarity>
+				<concreteCards>
+					<concrCard id="112">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="113">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	<card cardType="Deck" id="923">
+		<name>Memorial Ground</name>
+		<type>Generic Instant</type>
+		<effect>Put target attack action card with cost 0 from your graveyard on top of your deck.
+        </effect>
+		<cost>0</cost>
+		<color>B</color>
+		<pitchable>true</pitchable>
+		<attack>-1</attack>
+		<defence>-1</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>MON</expansion>
+				<id>305</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="114">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="115">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+			<expCard>
+				<expansion>MON-U</expansion>
+				<id>305</id>
+				<rarity>C</rarity>
+				<concreteCards>
+					<concrCard id="116">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+					<concrCard id="117">
+						<foilType>Rainbow</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+	
+	//LEVIA DECK
+	<card cardType="Deck" id="924">
+		<name>Lady Barthimont</name>
+		<type>Brute Mentor</type>
+		<effect>Mentor (You may only have Barthimont in your deck if your hero is young.)
+
+				At the start of your turn, if Barthimont is face down in your arsenal, you may turn her
+				face up.
+			
+				Whenever you play an attack action card, banish the top card of your deck. If the
+				banished card has 6 or more (a), the attack gains dominate and put a lesson counter
+				on Barthimont. Then if there are 2 or more lesson counters on Barthimont, banish her,
+				search your deck a specialization card, put it face up into your arsenal, and shuffle
+				your deck.
+        </effect>
+		<cost>-1</cost>
+		<color>U</color>
+		<pitchable>false</pitchable>
+		<attack>-1</attack>
+		<defence>3</defence>
+		<expansionCards>
+			<expCard>
+				<expansion>LEV</expansion>
+				<id>002</id>
+				<rarity>M</rarity>
+				<concreteCards>
+					<concrCard id="118">
+						<foilType>Normal</foilType>
+						<variantArt>Normal</variantArt>
+					</concrCard>
+				</concreteCards>
+			</expCard>
+		</expansionCards>
+	</card>
+</cardsList>

@@ -1,0 +1,16 @@
+<!ELEMENT decks (deck+)>
+<!ELEMENT deck (id,username,title,description,lastEdit,heroCard,weaponCards,equipmentCards,deckCards,public)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT username (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT lastEdit (#PCDATA)>
+<!ELEMENT heroCard (#PCDATA)>
+<!ELEMENT weaponCards (weaponCard?)>
+<!ELEMENT weaponCard (id,quantity)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT equipmentCards (equipmentCardID?)>
+<!ELEMENT equipmentCardID (#PCDATA)>
+<!ELEMENT deckCards (card*)>
+<!ELEMENT card (id,quantity)>
+<!ELEMENT public (#PCDATA)>

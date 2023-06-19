@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><decks>
+	<deck id="1">
+		<username>MauroSMOrc</username>
+		<title>Omega NGAAAH</title>
+		<description>Default description</description>
+		<lastEdit>2022-06-06 13:57:25</lastEdit>
+		<heroCard>738</heroCard>
+		<weaponCards>
+			<weaponCard>
+				<id>739</id>
+				<quantity>1</quantity>
+			</weaponCard>
+			<weaponCard>
+				<id>449</id>
+				<quantity>2</quantity>
+			</weaponCard>
+			<weaponCard>
+				<id>3</id>
+				<quantity>1</quantity>
+			</weaponCard>
+		</weaponCards>
+		<equipmentCards>
+			<equipmentCardID>5</equipmentCardID>
+			<equipmentCardID>740</equipmentCardID>
+			<equipmentCardID>4</equipmentCardID>
+		</equipmentCards>
+		<deckCards>
+			<card>
+				<id>744</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>206</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>745</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>207</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>746</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>208</id>
+				<quantity>2</quantity>
+			</card>
+		</deckCards>
+		<public>true</public>
+		<comments>
+		</comments>
+	</deck>
+	<deck id="2">
+		<username>Kerek</username>
+		<title>Omega NGAAAH</title>
+		<description>Default description</description>
+		<lastEdit>2022-06-13 22:35:49</lastEdit>
+		<heroCard>738</heroCard>
+		<weaponCards>
+			<weaponCard>
+				<id>739</id>
+				<quantity>1</quantity>
+			</weaponCard>
+			<weaponCard>
+				<id>449</id>
+				<quantity>2</quantity>
+			</weaponCard>
+			<weaponCard>
+				<id>3</id>
+				<quantity>1</quantity>
+			</weaponCard>
+		</weaponCards>
+		<equipmentCards>
+			<equipmentCardID>5</equipmentCardID>
+			<equipmentCardID>740</equipmentCardID>
+			<equipmentCardID>4</equipmentCardID>
+		</equipmentCards>
+		<deckCards>
+			<card>
+				<id>744</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>206</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>745</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>207</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>746</id>
+				<quantity>2</quantity>
+			</card>
+			<card>
+				<id>208</id>
+				<quantity>2</quantity>
+			</card>
+		</deckCards>
+		<public>true</public>
+		<comments>
+		</comments>
+	</deck>
+</decks>
